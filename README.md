@@ -1,5 +1,5 @@
-# DataScience Learning Notebooks
-Welcome to our Data Science Learning Notebooks repo! This is where I store various projects which I have done for learning purpose from different learning platforms like courera, udemy, linkedin, leetcode problems and alot. Whether you're new to data or a seasoned pro looking to sharpen your skills, you'll find projects and resources here to help you learn.
+# DataScience Notebooks
+Welcome to our Data Science Notebooks repo! This is where I store various projects which I have done for learning purpose from different learning platforms like courera, udemy, linkedin, leetcode problems and alot. Whether you're new to data or a seasoned pro looking to sharpen your skills, you'll find projects and resources here to help you learn.
 ## Whats Inside?
 **Project Notebooks:** These are like interactive guides that show you how to do different data science tasks, like analyzing data or making predictions.
 ## Why Use This Hub?
